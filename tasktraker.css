@@ -1,0 +1,41 @@
+*{
+    margin-bottom: 1%;
+}
+
+#all{
+    border: 2px solid black;
+    padding: 3rem;
+    margin: 4rem;
+    background-color: #FDDB27FF;
+    border-radius: 10px;
+}
+.htask {
+    text-align: center;
+    color: black;
+    background-color: none
+}
+.comtask{
+    text-align: center;
+    color: black;
+}
+
+.inptask{
+    display: flex;
+    gap: 20%;
+    justify-content: space-around;
+}
+.inptask input{
+    font-size: larger;
+    width: 50%;
+}
+.inptask label{
+    font-size: larger;
+}
+hr{
+    margin: 2%;
+}
+.tshow{
+    text-align: center;
+    color: black;
+    background-color: none;
+}
